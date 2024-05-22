@@ -1,6 +1,3 @@
-Based on the code and content from the notebook, here is a README for your project:
-
----
 
 # AES Encryption and Decryption
 
